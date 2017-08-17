@@ -7,7 +7,7 @@ https://github.com/anakiou/multitenancy.git <br>
 https://github.com/tkaczmarzyk/specification-arg-resolver.git
 
 # Spring Batch & Spring Integration
-https://github.com/mminella/SpringBatchWebinar.git 
+https://github.com/mminella/SpringBatchWebinar.git  
 https://github.com/mbruner/spring-integration-ftp-failover.git
 
 # 其他
