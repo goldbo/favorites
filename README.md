@@ -13,4 +13,6 @@ https://github.com/mbruner/spring-integration-ftp-failover.git
 https://github.com/codecentric/spring-boot-starter-batch-web.git
 
 # 其他
-https://github.com/creactiviti/piper.git
+https://github.com/creactiviti/piper.git  
+https://github.com/dotwaffle/rancid-git.git  
+
